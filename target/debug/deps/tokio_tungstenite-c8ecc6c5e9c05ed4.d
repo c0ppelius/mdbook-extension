@@ -1,0 +1,11 @@
+/Users/matt/GitHub/mdbook-latexy/target/debug/deps/tokio_tungstenite-c8ecc6c5e9c05ed4.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/debug/deps/libtokio_tungstenite-c8ecc6c5e9c05ed4.rlib: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/debug/deps/tokio_tungstenite-c8ecc6c5e9c05ed4.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs:

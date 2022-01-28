@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/matt/GitHub/mdbook-latexy/target/debug/build/typenum-2d85979f692acd6c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/matt/GitHub/mdbook-latexy/target/debug/build/typenum-2d85979f692acd6c/out/op.rs

@@ -1,0 +1,12 @@
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/notify-da39960b2709b4d4.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/libnotify-da39960b2709b4d4.rlib: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/notify-da39960b2709b4d4.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

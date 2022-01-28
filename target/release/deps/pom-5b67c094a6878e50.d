@@ -1,0 +1,14 @@
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/pom-5b67c094a6878e50.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/input.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/result.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/train.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/range.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/set.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/parser.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/char_class.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/libpom-5b67c094a6878e50.rlib: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/input.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/result.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/train.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/range.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/set.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/parser.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/char_class.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/pom-5b67c094a6878e50.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/input.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/result.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/train.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/range.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/set.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/parser.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/char_class.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/input.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/result.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/train.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/range.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/set.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/parser.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/pom-1.1.0/src/char_class.rs:

@@ -1,0 +1,13 @@
+/Users/matt/GitHub/mdbook-testing/target/rls/debug/deps/tracing-f4b40d21150d1c27.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/Users/matt/GitHub/mdbook-testing/target/rls/debug/deps/tracing-f4b40d21150d1c27.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs:

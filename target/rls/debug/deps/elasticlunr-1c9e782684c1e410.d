@@ -1,0 +1,11 @@
+/Users/matt/GitHub/mdbook-testing/target/rls/debug/deps/elasticlunr-1c9e782684c1e410.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/config.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/document_store.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/inverted_index.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/mod.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/en.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/pipeline.rs
+
+/Users/matt/GitHub/mdbook-testing/target/rls/debug/deps/elasticlunr-1c9e782684c1e410.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/config.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/document_store.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/inverted_index.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/mod.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/en.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/pipeline.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/config.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/document_store.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/inverted_index.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/mod.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/lang/en.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/elasticlunr-rs-2.3.14/src/pipeline.rs:

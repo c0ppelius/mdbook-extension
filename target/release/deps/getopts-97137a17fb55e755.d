@@ -1,0 +1,7 @@
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/getopts-97137a17fb55e755.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/getopts-0.2.21/src/lib.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/libgetopts-97137a17fb55e755.rlib: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/getopts-0.2.21/src/lib.rs
+
+/Users/matt/GitHub/mdbook-latexy/target/release/deps/getopts-97137a17fb55e755.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/getopts-0.2.21/src/lib.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/getopts-0.2.21/src/lib.rs:

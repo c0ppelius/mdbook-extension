@@ -1,0 +1,13 @@
+/Users/matt/GitHub/mdbook-testing/target/release/deps/quote-0d09e0a95ba25b9b.rmeta: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/Users/matt/GitHub/mdbook-testing/target/release/deps/libquote-0d09e0a95ba25b9b.rlib: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/Users/matt/GitHub/mdbook-testing/target/release/deps/quote-0d09e0a95ba25b9b.d: /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs /Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs
+
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/lib.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ext.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/format.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/ident_fragment.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/to_tokens.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/runtime.rs:
+/Users/matt/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.14/src/spanned.rs:

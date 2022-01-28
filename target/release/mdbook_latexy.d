@@ -1,0 +1,1 @@
+/Users/matt/GitHub/mdbook-latexy/target/release/mdbook_latexy: /Users/matt/GitHub/mdbook-latexy/src/main.rs /Users/matt/GitHub/mdbook-latexy/src/preprocessor.rs /Users/matt/GitHub/mdbook-latexy/src/svgbob.rs
